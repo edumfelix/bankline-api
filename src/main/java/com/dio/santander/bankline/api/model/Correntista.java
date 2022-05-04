@@ -7,7 +7,6 @@ import javax.persistence.Table;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.annotation.Generated;
 
 @Entity
 @Table(name = "tab_correntista")
